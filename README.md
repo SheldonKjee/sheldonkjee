@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0FFFF,50:87CEEB,100:4682B4&height=200&section=header&text=Hi%20there,%20I'm%20Sheldon!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20|%20ML%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0FFFF,50:87CEEB,100:4682B4&height=200&section=header&text=Hi%20there,%20I'm%20Sheldon!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20|%20AI/ML%20Engineer%20|%20Data%20Engineer&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%AC+Computer+Vision+Explorer;%F0%9F%A4%96+Machine+Learning+Enthusiast;%F0%9F%93%8A+Data+Science+Practitioner;%F0%9F%92%BB+Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A4%96+AI+/+ML+Enthusiast;%F0%9F%93%8A+Data+Science+Practitioner;%F0%9F%94%AC+Computer+Vision+Explorer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,9 +17,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-I'm a passionate **Data Science & ML enthusiast** with expertise in **Computer Vision**, **Full-Stack Development**, and **Cloud Technologies**. I specialize in building scalable, production-ready applications that leverage modern frameworks and cutting-edge AI capabilities to solve real-world problems.
+I'm a passionate **Data Science & AI/ML enthusiast** with expertise in **Computer Vision**, **Full-Stack Development**, and **Cloud Technologies**. I specialize in building scalable, production-ready applications that leverage modern frameworks and cutting-edge AI capabilities to solve real-world problems.
 
 📍 **Based in:** Bengaluru, India  
 🌐 **Open to:** Remote & On-site Opportunities  
@@ -49,10 +47,8 @@ me.say_hi()
 
 <br clear="both">
 
-> 💬 *"A man is only as good as his tools."* **― Emmert Wolf**
-
 ---
-
+<img align="middle" alt="Coding" width="900" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
@@ -70,6 +66,7 @@ me.say_hi()
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-ADD8E6?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-4682B4?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-5F9EA0?style=for-the-badge&logo=numpy&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-FF6B35?style=for-the-badge&logo=brain&logoColor=white)
 
 ### 🎨 Frontend & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-4682B4?style=for-the-badge&logo=flutter&logoColor=white)
