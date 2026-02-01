@@ -21,6 +21,10 @@
 
 I'm a passionate **Data Science & ML enthusiast** with expertise in **Computer Vision**, **Full-Stack Development**, and **Cloud Technologies**. I specialize in building scalable, production-ready applications that leverage modern frameworks and cutting-edge AI capabilities to solve real-world problems.
 
+📍 **Based in:** Bengaluru, India  
+🌐 **Open to:** Remote & On-site Opportunities  
+💼 **Actively Contributing:** Open-source Projects & Data Science Community
+
 <br>
 
 ```python
@@ -28,7 +32,7 @@ class SheldonKjee:
     def __init__(self):
         self.name = "Sheldon Kjee"
         self.role = "Data Scientist | ML Engineer | Full-Stack Developer"
-        self.location = "India 🇮🇳"
+        self.location = "Bengaluru, India 🇮🇳"
         self.code = ["Python", "R", "JavaScript", "Dart", "SQL"]
         self.ml_frameworks = ["TensorFlow", "Keras", "PyTorch", "Scikit-learn"]
         self.databases = ["MongoDB", "MySQL", "SQLite"]
@@ -183,13 +187,31 @@ Comprehensive weather data analysis framework for Karnataka with ML modeling, cl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SheldonKjee&show_icons=true&theme=vue&hide_border=true&title_color=4682B4&icon_color=87CEEB&text_color=5F9EA0&bg_color=ffffff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SheldonKjee&show_icons=true&theme=vue&hide_border=true&title_color=4682B4&icon_color=87CEEB&text_color=5F9EA0&bg_color=ffffff&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SheldonKjee&theme=vue&hide_border=true&ring=4682B4&fire=87CEEB&currStreakLabel=5F9EA0" />
 </p>
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheldonKjee&layout=compact&theme=vue&hide_border=true&title_color=4682B4&text_color=5F9EA0&bg_color=ffffff" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SheldonKjee&theme=vue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SheldonKjee&bg_color=ffffff&color=4682B4&line=87CEEB&point=5F9EA0&area=true&hide_border=true&theme=vue" />
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Total_Repositories-0-4682B4?style=for-the-badge" /></td>
+      <td><img src="https://img.shields.io/badge/GitHub_Followers-0-87CEEB?style=for-the-badge" /></td>
+      <td><img src="https://img.shields.io/badge/Open_Source-Passionate-5F9EA0?style=for-the-badge" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
