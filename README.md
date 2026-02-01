@@ -26,10 +26,10 @@ I'm a passionate **Data Science & AI/ML enthusiast** with expertise in **Compute
 <br>
 
 ```python
-class SheldonKjee:
+class Sheldon_Khongjee:
     def __init__(self):
-        self.name = "Sheldon Kjee"
-        self.role = "Data Scientist | ML Engineer | Full-Stack Developer"
+        self.name = "Sheldon Khongjee"
+        self.role = "Data Scientist | AI/ML Engineer | Data Engineer"
         self.location = "Bengaluru, India 🇮🇳"
         self.code = ["Python", "R", "JavaScript", "Dart", "SQL"]
         self.ml_frameworks = ["TensorFlow", "Keras", "PyTorch", "Scikit-learn"]
@@ -41,7 +41,7 @@ class SheldonKjee:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 
-me = SheldonKjee()
+me = Sheldon_Khongjee()
 me.say_hi()
 ```
 
