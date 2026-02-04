@@ -20,7 +20,7 @@
 I'm a passionate **Data Science & AI/ML enthusiast** with expertise in **Computer Vision**, **Full-Stack Development**, and **Cloud Technologies**. I specialize in building scalable, production-ready applications that leverage modern frameworks and cutting-edge AI capabilities to solve real-world problems.
 
 📍 **Based in:** Bengaluru, India  
-🌐 **Open to:** Remote & On-site Opportunities  
+🌐 **Open to:** Remote, Hybrid & On-site Opportunities  
 💼 **Actively Contributing:** Open-source Projects & Data Science Community
 
 <br>
@@ -203,7 +203,7 @@ Comprehensive weather data analysis framework for Karnataka with ML modeling, cl
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/Total_Repositories-0-4682B4?style=for-the-badge" /></td>
+      <td><img src="https://img.shields.io/badge/Total_Repositories-6-4682B4?style=for-the-badge" /></td>
       <td><img src="https://img.shields.io/badge/GitHub_Followers-0-87CEEB?style=for-the-badge" /></td>
       <td><img src="https://img.shields.io/badge/Open_Source-Passionate-5F9EA0?style=for-the-badge" /></td>
     </tr>
