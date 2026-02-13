@@ -17,7 +17,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Data Science & AI/ML enthusiast** with expertise in **Computer Vision**, **Full-Stack Development**, and **Cloud Technologies**. I specialize in building scalable, production-ready applications that leverage modern frameworks and cutting-edge AI capabilities to solve real-world problems.
+I'm a passionate **Data Science & AI/ML enthusiast**. I specialize in building scalable, production-ready applications that 
+leverage modern frameworks and cutting-edge AI capabilities to solve real-world problems.
 
 📍 **Based in:** Bengaluru, India  
 🌐 **Open to:** Remote, Hybrid & On-site Opportunities  
@@ -34,9 +35,8 @@ class Sheldon_Khongjee:
         self.code = ["Python", "R", "JavaScript", "Dart", "SQL"]
         self.ml_frameworks = ["TensorFlow", "Keras", "PyTorch", "Scikit-learn"]
         self.databases = ["MongoDB", "MySQL", "SQLite"]
-        self.focus_areas = ["Computer Vision", "Machine Learning", 
-                           "Mobile Development", "Data Analytics"]
-        self.quote = "A man is only as good as his tools." # ― Emmert Wolf
+        self.focus_areas = ["Data Science", "Machine Learning", "Artificial Intelligence", 
+                           "Data Engineering", "Data Analytics", "Mobile Developement"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
@@ -48,21 +48,25 @@ me.say_hi()
 <br clear="both">
 
 ---
-<img align="middle" alt="Coding" width="900" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-## 🛠️ Tech Stack & Skills
+<!--<img align="middle" alt="Coding" width="900" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>-->
 
-### 💻 Programming Languages
+### 🛠️ Tech Stack & Skills
+
+### 💻 Programming Languages and Applications
 ![Python](https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-87CEEB?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-5F9EA0?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+
 
 ### 🤖 AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-4682B4?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-87CEEB?style=for-the-badge&logo=pytorch&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5F9EA0?style=for-the-badge&logo=opencv&logoColor=white)
+<!--  -->
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-ADD8E6?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-4682B4?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-5F9EA0?style=for-the-badge&logo=numpy&logoColor=white)
@@ -72,11 +76,9 @@ me.say_hi()
 ![Flutter](https://img.shields.io/badge/Flutter-4682B4?style=for-the-badge&logo=flutter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-87CEEB?style=for-the-badge&logo=streamlit&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-5F9EA0?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-ADD8E6?style=for-the-badge&logo=css3&logoColor=black)
 
 ### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-4682B4?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-87CEEB?style=for-the-badge&logo=express&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-5F9EA0?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-ADD8E6?style=for-the-badge&logo=mysql&logoColor=black)
 
@@ -84,7 +86,6 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-4682B4?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-87CEEB?style=for-the-badge&logo=github&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-5F9EA0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-ADD8E6?style=for-the-badge&logo=docker&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-4682B4?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
@@ -241,9 +242,12 @@ Comprehensive weather data analysis framework for Karnataka with ML modeling, cl
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0FFFF,50:87CEEB,100:4682B4&height=120&section=footer"/>
 </p>
 
+<div align="center">
 <p align="center">
+      <h3>💭 Daily Inspiration</h3>
   🔧 <i>"A man is only as good as his tools."</i> <b>― Emmert Wolf</b>
 </p>
+</div>
 
 <p align="center">
   ⭐ <b>From <a href="https://github.com/SheldonKjee">SheldonKjee</a></b> | Feel free to reach out for collaboration!
@@ -252,3 +256,4 @@ Comprehensive weather data analysis framework for Karnataka with ML modeling, cl
 <p align="center">
   <img src="https://img.shields.io/badge/Made_with-💙_and_Python-4682B4?style=flat-square" />
 </p>
+
