@@ -68,8 +68,6 @@ me.say_hi()
 
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-<br>
-
 <h3 align="center">💻 Programming Languages & Applications</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white" />
@@ -80,8 +78,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_Query-4682B4?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
-
-<br>
 
 <h3 align="center">🤖 AI/ML & Data Science</h3>
 <p align="center">
@@ -98,8 +94,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Regression-87CEEB?style=for-the-badge&logo=chartdotjs&logoColor=black" />
 </p>
 
-<br>
-
 <h3 align="center">📦 Big Data & Data Warehousing</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
@@ -108,8 +102,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/ETL_Pipelines-5F9EA0?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
-<br>
-
 <h3 align="center">🎨 Frontend & Mobile</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-4682B4?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -117,16 +109,12 @@ me.say_hi()
   <img src="https://img.shields.io/badge/HTML5-5F9EA0?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-<br>
-
 <h3 align="center">⚙️ Backend & Databases</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-4682B4?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-5F9EA0?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-ADD8E6?style=for-the-badge&logo=mysql&logoColor=black" />
 </p>
-
-<br>
 
 <h3 align="center">🔧 Developer Tools & DevOps</h3>
 <p align="center">
@@ -142,15 +130,11 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
 </p>
 
-<br>
-
 ---
 
 <!-- ═══════════════════════════════ WHAT I'M WORKING ON ═══════════════════════════════ -->
 
 <h2 align="center">🎯 What I'm Working On</h2>
-
-<br>
 
 <div align="center">
 
@@ -166,29 +150,24 @@ me.say_hi()
 
 </div>
 
-<br>
-
 ---
 
 <!-- ═══════════════════════════════ INTERNSHIP ═══════════════════════════════ -->
 
 <h2 align="center">💼 Professional Experience</h2>
-<br>
 <div align="center">
 
 ### 🏢 Summer Data Analyst Intern  
 **Meghalaya Technology Parks Society** · Shillong, Meghalaya  
 📅 *Jun 2025 – Jul 2025*
 </div>
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Role-Data_Analyst_Intern-4682B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tools-Power_BI_|_Excel_|_Power_Query-87CEEB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Domain-Geospatial_Analytics-5F9EA0?style=for-the-badge" />
-</div>
-
 <br>
+</div>
 
 <div align="center">
 
@@ -198,9 +177,8 @@ me.say_hi()
 | 🧹 | Cleaned and merged **government datasets** using Excel and Power Query, resolving missing and inconsistent values |
 | 🗺️ | Mapped **258 roadless villages** and infrastructure coverage gaps using district and block-level **geospatial filters** |
 
-</div>
-
 <br>
+</div>
 
 #### 📸 Dashboard Snapshots
 
