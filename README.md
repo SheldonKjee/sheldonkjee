@@ -1,3 +1,4 @@
+<!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0FFFF,50:87CEEB,100:4682B4&height=200&section=header&text=Hi%20there,%20I'm%20Sheldon!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20|%20AI/ML%20Engineer%20|%20Data%20Engineer&descAlignY=55&descSize=18"/>
 </p>
@@ -13,17 +14,33 @@
   <img src="https://img.shields.io/github/followers/SheldonKjee?label=Followers&style=for-the-badge&color=87CEEB" alt="Followers" />
 </p>
 
----
+<br>
 
-## 👨‍💻 About Me
+<!-- ═══════════════════════════════════ ABOUT ME ═══════════════════════════════════ -->
 
-I'm a passionate **Data Science & AI/ML enthusiast**. I specialize in building scalable, production-ready applications that 
-leverage modern frameworks and cutting-edge AI capabilities to solve real-world problems.
+<h2 align="center">👨‍💻 About Me</h2>
 
-📍 **Based in:** Bengaluru, India  
-🌐 **Open to:** Remote, Hybrid & On-site Opportunities  
-💼 **Actively Contributing:** Open-source Projects & Data Science Community
+<p align="center">
+  <em>I'm a passionate <strong>Data Science & AI/ML enthusiast</strong>. I specialize in building scalable, production-ready applications that leverage modern frameworks and cutting-edge AI capabilities to solve real-world problems.</em>
+</p>
 
+<br>
+
+<div align="center">
+
+| | |
+|---|---|
+| 📍 **Based in** | Bengaluru, India |
+| 🌐 **Open to** | Remote, Hybrid & On-site Opportunities |
+| 💼 **Actively Contributing** | Open-source Projects & Data Science Community |
+| 📧 **Contact** | sheldonkjee216@gmail.com |
+
+</div>
+
+<br>
+
+<details>
+<summary><b>🐍 Click to view my profile in Python!</b></summary>
 <br>
 
 ```python
@@ -35,8 +52,9 @@ class Sheldon_Khongjee:
         self.code = ["Python", "R", "JavaScript", "Dart", "SQL"]
         self.ml_frameworks = ["TensorFlow", "Keras", "PyTorch", "Scikit-learn"]
         self.databases = ["MongoDB", "MySQL", "SQLite"]
+        self.big_data = ["Hadoop", "Data Warehousing"]
         self.focus_areas = ["Data Science", "Machine Learning", "Artificial Intelligence", 
-                           "Data Engineering", "Data Analytics", "Mobile Developement"]
+                           "Data Engineering", "Data Analytics", "Big Data", "Mobile Development"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
@@ -45,62 +63,180 @@ me = Sheldon_Khongjee()
 me.say_hi()
 ```
 
-<br clear="both">
+</details>
 
----
-<!--<img align="middle" alt="Coding" width="900" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>-->
-
-### 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages and Applications
-![Python](https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-5F9EA0?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-
-
-### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-4682B4?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-87CEEB?style=for-the-badge&logo=pytorch&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5F9EA0?style=for-the-badge&logo=opencv&logoColor=white)
-<!--  -->
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-ADD8E6?style=for-the-badge&logo=scikit-learn&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-4682B4?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-5F9EA0?style=for-the-badge&logo=numpy&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-FF6B35?style=for-the-badge&logo=brain&logoColor=white)
-
-### 🎨 Frontend & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-4682B4?style=for-the-badge&logo=flutter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-87CEEB?style=for-the-badge&logo=streamlit&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-5F9EA0?style=for-the-badge&logo=html5&logoColor=white)
-
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-4682B4?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-5F9EA0?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-ADD8E6?style=for-the-badge&logo=mysql&logoColor=black)
-
-### 🔧 Developer Tools & DevOps
-![Git](https://img.shields.io/badge/Git-4682B4?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-87CEEB?style=for-the-badge&logo=github&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-5F9EA0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-4682B4?style=for-the-badge&logo=jupyter&logoColor=white)
+<br>
 
 ---
 
-## 🎯 What I'm Working On
+<!-- ═══════════════════════════════ TECH STACK ═══════════════════════════════ -->
 
-- 🔭 Building scalable **Computer Vision** applications with modern frameworks
-- 🤖 Integrating **AI/ML capabilities** into production systems
-- 📱 Developing **cross-platform mobile apps** with Flutter
-- 📊 Creating **data visualization & analytics** dashboards
-- 🌐 Contributing to **open-source projects**
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
+
+<br>
+
+<h3 align="center">💻 Programming Languages & Applications</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-5F9EA0?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+<br>
+
+<h3 align="center">🤖 AI/ML & Data Science</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-4682B4?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-87CEEB?style=for-the-badge&logo=pytorch&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5F9EA0?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-ADD8E6?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-4682B4?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-5F9EA0?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6B35?style=for-the-badge&logo=brain&logoColor=white" />
+</p>
+
+<br>
+
+<h3 align="center">📦 Big Data & Data Warehousing</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Big_Data-4682B4?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Warehousing-87CEEB?style=for-the-badge&logo=amazonaws&logoColor=black" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-5F9EA0?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
+
+<br>
+
+<h3 align="center">🎨 Frontend & Mobile</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-4682B4?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-87CEEB?style=for-the-badge&logo=streamlit&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-5F9EA0?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<br>
+
+<h3 align="center">⚙️ Backend & Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-4682B4?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-5F9EA0?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-ADD8E6?style=for-the-badge&logo=mysql&logoColor=black" />
+</p>
+
+<br>
+
+<h3 align="center">🔧 Developer Tools & DevOps</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-4682B4?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-87CEEB?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-5F9EA0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-4682B4?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+<br>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ═══════════════════════════════ WHAT I'M WORKING ON ═══════════════════════════════ -->
+
+<h2 align="center">🎯 What I'm Working On</h2>
+
+<br>
+
+<div align="center">
+
+| | Focus Area |
+|---|---|
+| 🔭 | Building scalable **Computer Vision** applications with modern frameworks |
+| 🤖 | Integrating **AI/ML capabilities** into production systems |
+| 📱 | Developing **cross-platform mobile apps** with Flutter |
+| 📊 | Creating **data visualization & analytics** dashboards |
+| 🌐 | Contributing to **open-source projects** |
+
+</div>
+
+<br>
+
+---
+
+<!-- ═══════════════════════════════ INTERNSHIP ═══════════════════════════════ -->
+
+<h2 align="center">💼 Professional Experience</h2>
+
+<br>
+
+<div align="center">
+
+### 🏢 Summer Data Analyst Intern  
+**Meghalaya Technology Parks Society** · Shillong, Meghalaya  
+📅 *Jun 2025 – Jul 2025*
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Data_Analyst_Intern-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-Power_BI_|_Excel_|_Power_Query-87CEEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Geospatial_Analytics-5F9EA0?style=for-the-badge" />
+</div>
+
+<br>
+
+<div align="center">
+
+| | Key Contributions |
+|---|---|
+| 📊 | Built **Power BI dashboards** analyzing **4,922 unconnected villages** across Meghalaya districts |
+| 🧹 | Cleaned and merged **government datasets** using Excel and Power Query, resolving missing and inconsistent values |
+| 🗺️ | Mapped **258 roadless villages** and infrastructure coverage gaps using district and block-level **geospatial filters** |
+
+</div>
+
+<br>
+
+#### 📸 Dashboard Snapshots
+
+<details>
+<summary><b>🔍 Click to view — Comprehensive Analysis of Mobile Network Coverage Gaps in Meghalaya</b></summary>
+<br>
+
+> **No Coverage Analysis Dashboard**  
+> Analyzing 7,155 total villages — identifying 808 with no mobile network coverage, 409 with full coverage, and 70 border villages. Features interactive filters by network coverage category (Airtel, BSNL, RJIO, Vodafone), geospatial coverage map distribution, and BADP (Border Area Development Programme) analysis.
+
+<p align="center">
+  <img src="assets/dashboard_no_coverage_analysis.png" alt="No Coverage Analysis Dashboard" width="95%" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📈 Click to view — Metrics Overview & Village Infrastructure Analysis</b></summary>
+<br>
+
+> **Metrics Overview Dashboard**  
+> Deep-dive into 808 uncovered villages — 287 with domestic power, 133 with paved roads, 24 border villages, and 71 in BADP list. Includes Village Action Priority Classification, population category breakdown, digital infrastructure spread analysis, and road infrastructure decomposition tree identifying 258 villages with no road access.
+
+<p align="center">
+  <img src="assets/dashboard_metrics_overview.png" alt="Metrics Overview Dashboard" width="95%" />
+</p>
+
+</details>
+
+<br>
+
+---
+
+<!-- ═══════════════════════════════ FEATURED PROJECTS ═══════════════════════════════ -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<br>
+
+<div align="center">
 
 | Project | Tech Stack | Status |
 |---------|------------|--------|
@@ -109,9 +245,15 @@ me.say_hi()
 | ✈️ [**Flight Delay Prediction Framework**](https://github.com/SheldonKjee/Forecasting-Flight-Delays) | R, Keras, Cartopy, Scikit-learn, MongoDB | ![Complete](https://img.shields.io/badge/🟢-Complete-5F9EA0) |
 | ⛅ [**Karnataka Weather EDA Framework**](https://github.com/SheldonKjee/EDA-Framework-For-Understanding-Weather-Variability-In-Karnataka) | R, Keras, MongoDB, SARIMA, Scikit-learn | ![Deployed](https://img.shields.io/badge/✅-Deployed-4682B4) |
 
+</div>
+
+<br>
+
 ---
 
-### 🏍️ Enhanced Bike Helmet Safety Detection & Analysis
+<details>
+<summary><b>🏍️ Enhanced Bike Helmet Safety Detection & Analysis</b></summary>
+<br>
 
 <img align="right" width="100" src="https://img.shields.io/badge/Status-Live_Demo-4682B4?style=for-the-badge"/>
 
@@ -127,9 +269,13 @@ Real-time motorcycle helmet detection system powered by **YOLOv8** with an inter
 
 [![View Repo](https://img.shields.io/badge/GitHub-View_Repository-4682B4?style=for-the-badge&logo=github)](https://github.com/SheldonKjee/Enhanced-Bike-Helmet-Safety-Detection-Analysis)
 
+</details>
+
 ---
 
-### 🚨 MeghAlert - Emergency SOS System
+<details>
+<summary><b>🚨 MeghAlert - Emergency SOS System</b></summary>
+<br>
 
 <img align="right" width="100" src="https://img.shields.io/badge/Status-In_Progress-87CEEB?style=for-the-badge"/>
 
@@ -145,9 +291,13 @@ Cross-platform emergency alert system with real-time GPS tracking and admin dash
 
 [![View Repo](https://img.shields.io/badge/GitHub-View_Repository-4682B4?style=for-the-badge&logo=github)](https://github.com/SheldonKjee/MeghAlert)
 
+</details>
+
 ---
 
-### ✈️ Flight Delay Prediction Framework
+<details>
+<summary><b>✈️ Flight Delay Prediction Framework</b></summary>
+<br>
 
 <img align="right" width="100" src="https://img.shields.io/badge/Status-Complete-5F9EA0?style=for-the-badge"/>
 
@@ -162,9 +312,13 @@ End-to-end analysis and predictive modeling of U.S. flight delays with geospatia
 
 [![View Repo](https://img.shields.io/badge/GitHub-View_Repository-4682B4?style=for-the-badge&logo=github)](https://github.com/SheldonKjee/Forecasting-Flight-Delays)
 
+</details>
+
 ---
 
-### ⛅ Karnataka Weather Variability EDA
+<details>
+<summary><b>⛅ Karnataka Weather Variability EDA</b></summary>
+<br>
 
 <img align="right" width="100" src="https://img.shields.io/badge/Status-Deployed-4682B4?style=for-the-badge"/>
 
@@ -180,9 +334,17 @@ Comprehensive weather data analysis framework for Karnataka with ML modeling, cl
 
 [![View Repo](https://img.shields.io/badge/GitHub-View_Repository-4682B4?style=for-the-badge&logo=github)](https://github.com/SheldonKjee/EDA-Framework-For-Understanding-Weather-Variability-In-Karnataka)
 
+</details>
+
+<br>
+
 ---
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<br>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SheldonKjee&show_icons=true&theme=vue&hide_border=true&title_color=4682B4&icon_color=87CEEB&text_color=5F9EA0&bg_color=ffffff&count_private=true" />
@@ -211,18 +373,38 @@ Comprehensive weather data analysis framework for Karnataka with ML modeling, cl
   </table>
 </div>
 
----
-
-## 🌱 Currently Learning
-
-- 🔄 **MLOps** - Docker, CI/CD pipelines, Model deployment
-- 🧠 **Advanced Deep Learning** - Transformers, GANs
-- 📱 **Mobile Development** - Flutter advanced patterns
-- 💼 **System Design** - Building scalable architectures
+<br>
 
 ---
 
-## 📫 Let's Connect!
+<!-- ═══════════════════════════════ CURRENTLY LEARNING ═══════════════════════════════ -->
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<br>
+
+<div align="center">
+
+| | Area | Details |
+|---|---|---|
+| 🔄 | **MLOps** | Docker, CI/CD pipelines, Model deployment |
+| 🧠 | **Advanced Deep Learning** | Transformers, GANs |
+| 📱 | **Mobile Development** | Flutter advanced patterns |
+| 💼 | **System Design** | Building scalable architectures |
+| 📊 | **Alteryx** | Data blending, advanced analytics & workflow automation |
+| 🔬 | **KNIME** | Visual data science workflows & machine learning pipelines |
+
+</div>
+
+<br>
+
+---
+
+<!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
+
+<h2 align="center">📫 Let's Connect!</h2>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/SheldonKjee">
@@ -236,17 +418,18 @@ Comprehensive weather data analysis framework for Karnataka with ML modeling, cl
   </a>
 </p>
 
+<br>
+
 ---
 
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0FFFF,50:87CEEB,100:4682B4&height=120&section=footer"/>
 </p>
 
 <div align="center">
-<p align="center">
-      <h3>💭 Daily Inspiration</h3>
-  🔧 <i>"A man is only as good as his tools."</i> <b>― Emmert Wolf</b>
-</p>
+  <h3>💭 Daily Inspiration</h3>
+  <p>🔧 <i>"A man is only as good as his tools."</i> <b>― Emmert Wolf</b></p>
 </div>
 
 <p align="center">
