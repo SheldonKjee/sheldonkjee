@@ -11,7 +11,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SheldonKjee&label=Profile%20Views&color=4682B4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SheldonKjee?label=Followers&style=for-the-badge&color=87CEEB" alt="Followers" />
+  <a href="https://github.com/SheldonKjee?tab=followers">
+    <img src="https://img.shields.io/github/followers/SheldonKjee?label=Followers&style=for-the-badge&color=87CEEB&logo=github&logoColor=white" alt="Followers" />
+  </a>
 </p>
 
 <br>
@@ -33,14 +35,9 @@
 | 📍 **Based in** | Bengaluru, India |
 | 🌐 **Open to** | Remote, Hybrid & On-site Opportunities |
 | 💼 **Actively Contributing** | Open-source Projects & Data Science Community |
-| 📧 **Contact** | sheldonkjee216@gmail.com |
 
 </div>
 
-<br>
-
-<details>
-<summary><b>🐍 Click to view my profile in Python!</b></summary>
 <br>
 
 ```python
@@ -63,8 +60,6 @@ me = Sheldon_Khongjee()
 me.say_hi()
 ```
 
-</details>
-
 <br>
 
 ---
@@ -82,6 +77,8 @@ me.say_hi()
   <img src="https://img.shields.io/badge/SQL-5F9EA0?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Query-4682B4?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 <br>
@@ -93,9 +90,12 @@ me.say_hi()
   <img src="https://img.shields.io/badge/PyTorch-87CEEB?style=for-the-badge&logo=pytorch&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-5F9EA0?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-ADD8E6?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-4682B4?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-5F9EA0?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep_Learning-FF6B35?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regression-87CEEB?style=for-the-badge&logo=chartdotjs&logoColor=black" />
 </p>
 
 <br>
@@ -134,6 +134,12 @@ me.say_hi()
   <img src="https://img.shields.io/badge/GitHub-87CEEB?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/VS_Code-5F9EA0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-4682B4?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
 </p>
 
 <br>
@@ -154,6 +160,8 @@ me.say_hi()
 | 🤖 | Integrating **AI/ML capabilities** into production systems |
 | 📱 | Developing **cross-platform mobile apps** with Flutter |
 | 📊 | Creating **data visualization & analytics** dashboards |
+| 📈 | Performing **Data Analytics** to derive actionable insights |
+| 🔄 | Building **ETL pipelines** for Data Engineering workflows |
 | 🌐 | Contributing to **open-source projects** |
 
 </div>
@@ -236,105 +244,111 @@ me.say_hi()
 
 <br>
 
+<!-- Row 1: Bike Detection + MeghAlert -->
 <div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-| Project | Tech Stack | Status |
-|---------|------------|--------|
-| 🏍️ [**Enhanced Bike Helmet Safety Detection**](https://github.com/SheldonKjee/Enhanced-Bike-Helmet-Safety-Detection-Analysis) | YOLOv8, Keras, OpenCV, MongoDB, Streamlit | ![Live](https://img.shields.io/badge/🟢-Live_Demo-4682B4) |
-| 🚨 [**MeghAlert - Emergency SOS System**](https://github.com/SheldonKjee/MeghAlert) | Flutter, Node.js, MongoDB, WebSocket, GPS | ![Progress](https://img.shields.io/badge/🔄-In_Progress-87CEEB) |
-| ✈️ [**Flight Delay Prediction Framework**](https://github.com/SheldonKjee/Forecasting-Flight-Delays) | R, Keras, Cartopy, Scikit-learn, MongoDB | ![Complete](https://img.shields.io/badge/🟢-Complete-5F9EA0) |
-| ⛅ [**Karnataka Weather EDA Framework**](https://github.com/SheldonKjee/EDA-Framework-For-Understanding-Weather-Variability-In-Karnataka) | R, Keras, MongoDB, SARIMA, Scikit-learn | ![Deployed](https://img.shields.io/badge/✅-Deployed-4682B4) |
+### 🏍️ [Bike Helmet Safety Detection](https://github.com/SheldonKjee/Enhanced-Bike-Helmet-Safety-Detection-Analysis)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGR0OWR0N2l0eTNtMzJ5dHZhMnQ4ZGFtcHVxdHJhazF4Z3BjaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZtpWIofYBVRRiME/giphy.gif" width="100%" alt="Computer Vision" />
+</p>
+
+<img src="https://img.shields.io/badge/Status-Deployed-4682B4?style=for-the-badge"/>
+
+Real-time motorcycle helmet detection powered by **YOLOv8** with interactive Streamlit dashboard.
+
+**Tech:** `Python` `YOLOv8` `OpenCV` `Streamlit` `MongoDB`
+
+- ✅ Real-time object detection
+- ✅ Smart helmet matching (IoU + Distance)
+- ✅ Safety compliance scoring (0-100)
+- ✅ Multi-source: Images, Video, Webcam
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repository-4682B4?style=for-the-badge&logo=github)](https://github.com/SheldonKjee/Enhanced-Bike-Helmet-Safety-Detection-Analysis)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚨 [MeghAlert - Emergency SOS](https://github.com/SheldonKjee/MeghAlert)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWd2OGRqNmR4NWFkNWhqcWFqamFtNnNvYzBxOGtjdGlxejNreXJodyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" alt="Emergency Alert" />
+</p>
+
+<img src="https://img.shields.io/badge/Status-In_Progress-87CEEB?style=for-the-badge"/>
+
+Cross-platform emergency alert system with real-time GPS tracking for Meghalaya.
+
+**Tech:** `Flutter` `Node.js` `MongoDB` `WebSocket` `JWT`
+
+- 📱 One-Click SOS alerts
+- 📍 Real-time GPS tracking
+- 🎛️ Admin live monitoring dashboard
+- 🗺️ Interactive Leaflet.js maps
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repository-4682B4?style=for-the-badge&logo=github)](https://github.com/SheldonKjee/MeghAlert)
+
+</td>
+</tr>
+</table>
 </div>
 
 <br>
 
----
+<!-- Row 2: Flight Delay + Weather EDA -->
+<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🏍️ Enhanced Bike Helmet Safety Detection & Analysis</b></summary>
-<br>
+### ✈️ [Flight Delay Prediction](https://github.com/SheldonKjee/Forecasting-Flight-Delays)
 
-<img align="right" width="100" src="https://img.shields.io/badge/Status-Live_Demo-4682B4?style=for-the-badge"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF1Y2I4OWRuZmxjMnRiZjJ2Mm94YzNoNW1nMHp2eXhyYTd4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/naXyAp2VYMR4k/giphy.gif" width="100%" alt="Flight Analysis" />
+</p>
 
-Real-time motorcycle helmet detection system powered by **YOLOv8** with an interactive Streamlit dashboard for road safety compliance analysis.
+<img src="https://img.shields.io/badge/Status-Complete-5F9EA0?style=for-the-badge"/>
 
-**Tech:** `Python` `YOLOv8` `Keras` `OpenCV` `Streamlit` `MongoDB` `R` `Plotly`
+End-to-end analysis and predictive modeling of U.S. flight delays with geospatial viz.
 
-- ✅ Real-time object detection (Bikes, Helmets, Riders, Unprotected Heads)
-- ✅ Smart helmet-to-head matching algorithm (IoU + Distance)
-- ✅ Safety compliance scoring (0-100 scale)
-- ✅ Overcrowding detection (>2 riders per bike)
-- ✅ Multiple input sources: Images, Videos, Webcam, YouTube
+**Tech:** `Python` `R` `Keras` `Scikit-learn` `Cartopy`
 
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repository-4682B4?style=for-the-badge&logo=github)](https://github.com/SheldonKjee/Enhanced-Bike-Helmet-Safety-Detection-Analysis)
-
-</details>
-
----
-
-<details>
-<summary><b>🚨 MeghAlert - Emergency SOS System</b></summary>
-<br>
-
-<img align="right" width="100" src="https://img.shields.io/badge/Status-In_Progress-87CEEB?style=for-the-badge"/>
-
-Cross-platform emergency alert system with real-time GPS tracking and admin dashboard for Meghalaya region emergency response.
-
-**Tech:** `Flutter` `Dart` `Node.js` `Express` `MongoDB` `WebSocket` `Leaflet.js` `JWT`
-
-- 📱 One-Click SOS with instant emergency alerts
-- 📍 Real-time GPS location tracking and sharing
-- 🎛️ Admin dashboard with WebSocket-based live monitoring
-- 🗺️ Interactive maps with Leaflet.js integration
-- 🔐 Secure JWT authentication
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repository-4682B4?style=for-the-badge&logo=github)](https://github.com/SheldonKjee/MeghAlert)
-
-</details>
-
----
-
-<details>
-<summary><b>✈️ Flight Delay Prediction Framework</b></summary>
-<br>
-
-<img align="right" width="100" src="https://img.shields.io/badge/Status-Complete-5F9EA0?style=for-the-badge"/>
-
-End-to-end analysis and predictive modeling of U.S. flight delays with geospatial visualization and machine learning.
-
-**Tech:** `Python` `R` `Keras` `Scikit-learn` `MongoDB` `Cartopy` `Pandas` `Matplotlib`
-
-- 📊 Comprehensive EDA with correlation analysis
-- 🗺️ Geospatial visualization of U.S. airports using Cartopy
-- 🤖 Logistic Regression model for delay prediction
-- 📈 Delay pattern analysis by airline and weather factors
+- 📊 Comprehensive EDA & correlation
+- 🗺️ Geospatial airport visualization
+- 🤖 Logistic Regression model
+- 📈 Delay pattern analysis
 
 [![View Repo](https://img.shields.io/badge/GitHub-View_Repository-4682B4?style=for-the-badge&logo=github)](https://github.com/SheldonKjee/Forecasting-Flight-Delays)
 
-</details>
+</td>
+<td width="50%" valign="top">
 
----
+### ⛅ [Karnataka Weather EDA](https://github.com/SheldonKjee/EDA-Framework-For-Understanding-Weather-Variability-In-Karnataka)
 
-<details>
-<summary><b>⛅ Karnataka Weather Variability EDA</b></summary>
-<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF2Y3BtOW1wcXBzbGVweXV6aGx2cHBwcDFveDdoYnU4YjZ3aTlsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif" width="100%" alt="Weather Analysis" />
+</p>
 
-<img align="right" width="100" src="https://img.shields.io/badge/Status-Deployed-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Complete-5F9EA0?style=for-the-badge"/>
 
-Comprehensive weather data analysis framework for Karnataka with ML modeling, clustering, and SARIMA time series forecasting.
+Comprehensive weather analysis with ML modeling, clustering & SARIMA forecasting.
 
-**Tech:** `Python` `R` `Keras` `MongoDB` `Scikit-learn` `Statsmodels` `Plotly`
+**Tech:** `Python` `R` `Keras` `Scikit-learn` `Statsmodels`
 
-- 📥 Data ingestion from CSV to MongoDB
-- 🔍 Exploratory Data Analysis with outlier detection
-- 🧠 ML Models: Random Forest, Gradient Boosting
+- 📥 Data ingestion (CSV → MongoDB)
+- 🔍 EDA with outlier detection
+- 🧠 Random Forest & Gradient Boosting
 - 📈 SARIMA time series forecasting
-- 🎨 K-Means clustering for weather patterns
 
 [![View Repo](https://img.shields.io/badge/GitHub-View_Repository-4682B4?style=for-the-badge&logo=github)](https://github.com/SheldonKjee/EDA-Framework-For-Understanding-Weather-Variability-In-Karnataka)
 
-</details>
+</td>
+</tr>
+</table>
+</div>
 
 <br>
 
