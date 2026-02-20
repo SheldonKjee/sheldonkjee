@@ -55,7 +55,7 @@ class Sheldon_Khongjee:
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
-
+#main
 me = Sheldon_Khongjee()
 me.say_hi()
 ```
@@ -173,17 +173,13 @@ me.say_hi()
 <!-- ═══════════════════════════════ INTERNSHIP ═══════════════════════════════ -->
 
 <h2 align="center">💼 Professional Experience</h2>
-
 <br>
-
 <div align="center">
 
 ### 🏢 Summer Data Analyst Intern  
 **Meghalaya Technology Parks Society** · Shillong, Meghalaya  
 📅 *Jun 2025 – Jul 2025*
-
 </div>
-
 <br>
 
 <div align="center">
