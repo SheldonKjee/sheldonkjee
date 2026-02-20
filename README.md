@@ -194,7 +194,7 @@ me.say_hi()
 
 | | Key Contributions |
 |---|---|
-| 📊 | Built **Power BI dashboards** analyzing **4,922 unconnected villages** across Meghalaya districts |
+| 📊 | Built **Power BI dashboards** analyzing **7,155 total villages** across Meghalaya districts |
 | 🧹 | Cleaned and merged **government datasets** using Excel and Power Query, resolving missing and inconsistent values |
 | 🗺️ | Mapped **258 roadless villages** and infrastructure coverage gaps using district and block-level **geospatial filters** |
 
