@@ -212,7 +212,7 @@ me.say_hi()
 > Analyzing 7,155 total villages — identifying 808 with no mobile network coverage, 409 with full coverage, and 70 border villages. Features interactive filters by network coverage category (Airtel, BSNL, RJIO, Vodafone), geospatial coverage map distribution, and BADP (Border Area Development Programme) analysis.
 
 <p align="center">
-  <img src="assets/dashboard_no_coverage_analysis.png" alt="No Coverage Analysis Dashboard" width="95%" />
+  <img src="assets/0.jpg" alt="No Coverage Analysis Dashboard" width="95%" />
 </p>
 
 </details>
@@ -225,7 +225,7 @@ me.say_hi()
 > Deep-dive into 808 uncovered villages — 287 with domestic power, 133 with paved roads, 24 border villages, and 71 in BADP list. Includes Village Action Priority Classification, population category breakdown, digital infrastructure spread analysis, and road infrastructure decomposition tree identifying 258 villages with no road access.
 
 <p align="center">
-  <img src="assets/dashboard_metrics_overview.png" alt="Metrics Overview Dashboard" width="95%" />
+  <img src="assets/1.jpg" alt="Metrics Overview Dashboard" width="95%" />
 </p>
 
 </details>
@@ -248,10 +248,6 @@ me.say_hi()
 
 ### 🏍️ [Bike Helmet Safety Detection](https://github.com/SheldonKjee/Enhanced-Bike-Helmet-Safety-Detection-Analysis)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGR0OWR0N2l0eTNtMzJ5dHZhMnQ4ZGFtcHVxdHJhazF4Z3BjaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZtpWIofYBVRRiME/giphy.gif" width="100%" alt="Computer Vision" />
-</p>
-
 <img src="https://img.shields.io/badge/Status-Deployed-4682B4?style=for-the-badge"/>
 
 Real-time motorcycle helmet detection powered by **YOLOv8** with interactive Streamlit dashboard.
@@ -269,10 +265,6 @@ Real-time motorcycle helmet detection powered by **YOLOv8** with interactive Str
 <td width="50%" valign="top">
 
 ### 🚨 [MeghAlert - Emergency SOS](https://github.com/SheldonKjee/MeghAlert)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWd2OGRqNmR4NWFkNWhqcWFqamFtNnNvYzBxOGtjdGlxejNreXJodyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" alt="Emergency Alert" />
-</p>
 
 <img src="https://img.shields.io/badge/Status-In_Progress-87CEEB?style=for-the-badge"/>
 
@@ -302,10 +294,6 @@ Cross-platform emergency alert system with real-time GPS tracking for Meghalaya.
 
 ### ✈️ [Flight Delay Prediction](https://github.com/SheldonKjee/Forecasting-Flight-Delays)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF1Y2I4OWRuZmxjMnRiZjJ2Mm94YzNoNW1nMHp2eXhyYTd4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/naXyAp2VYMR4k/giphy.gif" width="100%" alt="Flight Analysis" />
-</p>
-
 <img src="https://img.shields.io/badge/Status-Complete-5F9EA0?style=for-the-badge"/>
 
 End-to-end analysis and predictive modeling of U.S. flight delays with geospatial viz.
@@ -323,10 +311,6 @@ End-to-end analysis and predictive modeling of U.S. flight delays with geospatia
 <td width="50%" valign="top">
 
 ### ⛅ [Karnataka Weather EDA](https://github.com/SheldonKjee/EDA-Framework-For-Understanding-Weather-Variability-In-Karnataka)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF2Y3BtOW1wcXBzbGVweXV6aGx2cHBwcDFveDdoYnU4YjZ3aTlsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif" width="100%" alt="Weather Analysis" />
-</p>
 
 <img src="https://img.shields.io/badge/Status-Complete-5F9EA0?style=for-the-badge"/>
 
