@@ -45,8 +45,8 @@ class Sheldon_Khongjee:
     def __init__(self):
         self.name = "Sheldon Khongjee"
         self.role = "Data Scientist | AI/ML Engineer | Data Engineer"
-        self.location = "Bengaluru, India 🇮🇳"
-        self.code = ["Python", "R", "JavaScript", "Dart", "SQL"]
+        self.location = ["Bengaluru, India 🇮🇳", "Shillong, India 🇮🇳"]
+        self.code = ["Python", "R", "Java", "Dart", "SQL"]
         self.ml_frameworks = ["TensorFlow", "Keras", "PyTorch", "Scikit-learn"]
         self.databases = ["MongoDB", "MySQL", "SQLite"]
         self.big_data = ["Hadoop", "Data Warehousing"]
