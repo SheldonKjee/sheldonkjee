@@ -157,7 +157,7 @@ me.say_hi()
 <h2 align="center">💼 Professional Experience</h2>
 <div align="center">
 
-### 🏢 Summer Data Analyst Intern  
+### 🏢 Geospatial Data Analyst Intern  
 **Meghalaya Technology Parks Society** · Shillong, Meghalaya  
 📅 *Jun 2025 – Jul 2025*
 </div>
